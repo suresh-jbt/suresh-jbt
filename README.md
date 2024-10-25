@@ -48,6 +48,13 @@ I'm the **CEO and CTO at JarvisBitz Tech** with over **12 years** of experience 
 ![PouchDB](https://img.shields.io/badge/PouchDB-Experienced-blue?style=flat-square&logo=pouchdb)
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-Experienced-purple?style=flat-square&logo=indexeddb)
 
+### 🎖️ **Certifications**
+- **[NodeJS - MVC, REST APIs, GraphQL, Deno](https://www.udemy.com/certificate/UC-99e809d6-76aa-4e28-b940-16f27b5c4458)**
+- **[JavaScript - 2024](https://www.udemy.com/certificate/UC-603994c6-b58e-448d-b8bb-374737d85e0d/)**
+- **[A-Frame - WebVR](https://www.udemy.com/certificate/UC-e89412aa-149c-4711-9879-06adcfee594f/)**
+- **[TypeScript](https://www.udemy.com/certificate/UC-f518d4d6-7309-4380-a2af-41e53b55dca0/)**
+- **[Three.JS WebXR - AR/VR](https://www.udemy.com/certificate/UC-cd17ee9e-5bd1-483c-907d-45933cda4d79/)**
+
 ## 📈 GitHub Stats
 
 ### 🔥 Overview
