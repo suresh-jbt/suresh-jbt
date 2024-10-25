@@ -49,11 +49,22 @@ I'm the **CEO and CTO at JarvisBitz Tech** with over **12 years** of experience 
 ![IndexedDB](https://img.shields.io/badge/IndexedDB-Experienced-purple?style=flat-square&logo=indexeddb)
 
 ### 🎖️ **Certifications**
-- [NodeJS - MVC, REST APIs, GraphQL, Deno](https://www.udemy.com/certificate/UC-99e809d6-76aa-4e28-b940-16f27b5c4458)
 - [JavaScript - 2024](https://www.udemy.com/certificate/UC-603994c6-b58e-448d-b8bb-374737d85e0d/)
-- [A-Frame - WebVR](https://www.udemy.com/certificate/UC-e89412aa-149c-4711-9879-06adcfee594f/)
 - [TypeScript](https://www.udemy.com/certificate/UC-f518d4d6-7309-4380-a2af-41e53b55dca0/)
+- [React - Next.JS with Redux 2024](https://www.udemy.com/certificate/UC-445cf5b8-2199-4893-b96b-dbe08d5010b6/)
+- [SSR - React with Redux](https://www.udemy.com/certificate/UC-7235684e-3103-4916-9c8a-fcd0d21f767d/)
+- [React Native + Hooks + Context + React Navigation](https://www.udemy.com/certificate/UC-a3601671-825f-4061-b54c-8b10f5a0d197/)
+- [React Native - CI/CD](https://www.udemy.com/certificate/UC-c903152a-9773-48d3-aaef-fe82deca66cf/)
+- [A-Frame - WebVR](https://www.udemy.com/certificate/UC-e89412aa-149c-4711-9879-06adcfee594f/)
 - [Three.JS WebXR - AR/VR](https://www.udemy.com/certificate/UC-cd17ee9e-5bd1-483c-907d-45933cda4d79/)
+- [NodeJS - MVC, REST APIs, GraphQL, Deno](https://www.udemy.com/certificate/UC-99e809d6-76aa-4e28-b940-16f27b5c4458)
+- [Mongo DB - 2024](https://www.udemy.com/certificate/UC-4316411d-b45c-4d3a-8be6-f28ddbf42184/)
+- [MySQL Bootcamp](https://www.udemy.com/certificate/UC-de8cb957-dce3-4249-b6bb-e998f742e915/)
+- [MySQL + Security(pen)](https://www.udemy.com/certificate/UC-459e46b8-3af4-4c2b-a8b0-8fadc2dc93b1/)
+- [Angular - 2024](https://www.udemy.com/certificate/UC-0a90eafe-7c5d-4acf-88bf-3354eec9cbf1/)
+- [DevOps - CI/CD](https://www.udemy.com/certificate/UC-0efe6f15-371c-41b3-b485-ed747401e395/)
+- [Cypress - Mocha + Cucumber](https://www.udemy.com/certificate/UC-857b7be8-2fca-4699-86fc-55cf89b43788/)
+- [Jest + Enzyme with React](https://www.udemy.com/certificate/UC-e1173015-094a-4302-aef7-c00a049162f0/)
 
 ## 📈 GitHub Stats
 
