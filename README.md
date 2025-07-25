@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm the **CEO and CTO at JarvisBitz Tech** with over **12 years** of experience in software development, quality assurance, and project management. My work primarily revolves around building scalable and efficient solutions that solve real-world problems.
+I'm the **CEO and CTO at JarvisBitz Tech** with over **13+ years** of experience in IT, quality assurance, and project management. My work primarily revolves around building scalable and efficient solutions that solve real-world problems.
 
 - 🔭 I’m currently working on: Enhancing our flagship product's scalability and integrating AI-driven features to improve user experience.
 - 🌱 I’m currently learning: Advanced AI and Machine Learning techniques, with a focus on Natural Language Processing (NLP) and Edge Computing.
