@@ -1,7 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:4285F4&height=180&section=header&text=suresh-borad&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=v2.0%20%E2%80%A2%20AI-first%20%E2%80%A2%20CEO%20%26%20CTO%20%40%20JarvisBitz%20Tech&descSize=16&descAlignY=62&descAlign=50" width="100%" />
+
 <a href="https://github.com/suresh-jbt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=%24+whoami;%E2%86%92+Suresh+Borad+%2F%2F+CEO+%26+CTO+%40+JarvisBitz+Tech;%E2%86%92+13%2B+years+shipping+software+that+doesn%27t+break;%E2%86%92+AI-first+since+2022+%E2%80%A2+Vertex+AI+%E2%80%A2+Prompt+Design;%E2%86%92+Architect+%E2%80%A2+Builder+%E2%80%A2+Occasional+Firefighter" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=%24+load_model+suresh-borad;%E2%9C%93+model+loaded+%E2%80%A2+context+%3D+13y+%E2%80%A2+version+%3D+2.0-ai-first;%E2%86%92+specializes+in+scaling+product+%2B+shipping+AI;%E2%86%92+warm+weights%2C+calm+teams%2C+low+latency" alt="typing banner" />
 </a>
 
 <br/>
@@ -11,61 +13,128 @@
 [![Website](https://img.shields.io/badge/jarvisbitz.com-111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jarvisbitz.com)
 [![Credly](https://img.shields.io/badge/Credly-FF6A00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/suresh-b.f36a48f0/badges)
 
+<sub>`org: suresh-borad` &nbsp;·&nbsp; `role: ceo, cto` &nbsp;·&nbsp; `status: 🟢 available` &nbsp;·&nbsp; `latency: ~42ms` &nbsp;·&nbsp; `region: asia-south1`</sub>
+
 </div>
+
+---
+
+## 🧾 Model Card &nbsp;·&nbsp; `suresh-borad/v2.0-ai-first`
+
+> A production-grade executive model, fine-tuned over 13 years on real-world shipping, scaling, and surviving. Now AI-aligned.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+```yaml
+model:       suresh-borad
+version:     2.0-ai-first
+released:    2013 → continuously updated
+params:      13B+ (hours of experience)
+context:     256K (multi-project parallel)
+modality:    strategy · code · team · product
+languages:   JS/TS · Python · English
+license:     open to collaborate
+maintainer:  JarvisBitz Tech
+```
+
+</td>
+<td width="50%" valign="top">
+
+```yaml
+architecture:
+  - strategy_head:  ceo-optimized
+  - systems_head:   cto-optimized
+  - ai_head:        vertex-ai · prompt-design
+  - qa_head:        13y-adversarial
+  - execution_head: ic-muscle-memory
+
+training_corpus:
+  - enterprise (b2b saas)
+  - startups   (0 → 1)
+  - mobile · realtime · webxr · ai
+  - 100+ shipped products
+
+alignment:       RLHF from customer feedback
+safety:          post-incident hardened
+eval:            see §Benchmarks below
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f500.png" width="22" /> Pull Request #∞ &nbsp;·&nbsp; `suresh-borad:main` → `your-network:main`
 
-> **🟢 Open** &nbsp;·&nbsp; **Ready to merge** &nbsp;·&nbsp; **No conflicts detected** &nbsp;·&nbsp; *opened 13+ years ago, continuously updated*
+> **🟢 Open** &nbsp;·&nbsp; **Ready to merge** &nbsp;·&nbsp; **No conflicts detected** &nbsp;·&nbsp; *opened 13+ years ago, continuously rebased*
 
-### 📝 Description
+**Description** — This PR introduces a battle-tested CEO / CTO into your professional network. A decade of shipping scalable systems across web, mobile, realtime, and XR — then in **2022 merged the `ai-engineering` branch into `main`** and has been compounding on **Vertex AI**, **Generative AI**, **Prompt Engineering**, and **Cloud Security** ever since.
 
-This PR introduces a battle-tested **CEO / CTO** into your professional network. The author spent a decade shipping scalable systems across web, mobile, realtime, and XR — then in **2022 merged the `ai-engineering` branch into `main`** and has been compounding on Vertex AI, Generative AI, Prompt Engineering, and Cloud Security ever since.
-
-> 💡 *Reviewers will find no blocking comments. The author responds faster than your CI pipeline.*
+> 💡 *Reviewers will find no blocking comments. The author responds faster than most CI pipelines.*
 
 ---
 
-### 🏗️ System Architecture (of me)
+## 🧠 Architecture &nbsp;·&nbsp; <code>multi-head expert system</code>
 
 ```mermaid
-flowchart LR
-    subgraph INPUT["🧩 Input"]
-        A1[Vague Requirements]
-        A2[Broken Systems]
-        A3[Ambitious Roadmaps]
+flowchart TB
+    subgraph IN["🧩 Input Signal"]
+        direction LR
+        I1[Vague requirements]
+        I2[Broken systems]
+        I3[Ambitious roadmaps]
     end
 
-    subgraph CORE["⚙️ suresh-borad :: runtime v2.0"]
+    subgraph MODEL["🧠 suresh-borad · v2.0-ai-first"]
         direction TB
-        B1[["🧠 Strategy Layer<br/>CEO mindset"]]
-        B2[["🏛️ Architecture Layer<br/>CTO mindset"]]
-        B5[["🤖 AI Layer<br/>Vertex AI · Prompt Design"]]
-        B3[["🔧 Execution Layer<br/>IC muscle memory"]]
-        B4[["✅ QA Layer<br/>13y of paranoia"]]
-        B1 --> B2 --> B5 --> B3 --> B4
+
+        ENC[["▣ Encoder · 13y context window"]]
+
+        subgraph HEADS["━━━━━━  Expert Heads  ━━━━━━"]
+            direction LR
+            H1[["🎯 Strategy<br/><sub>CEO</sub>"]]
+            H2[["🏛️ Systems<br/><sub>CTO</sub>"]]
+            H3[["🤖 AI<br/><sub>Vertex AI</sub>"]]
+            H4[["🔧 Execution<br/><sub>IC</sub>"]]
+            H5[["✅ QA<br/><sub>13y adv.</sub>"]]
+        end
+
+        ROUTE{{"⚡ Router · routes input to relevant heads"}}
+        DEC[["▣ Decoder · ships calm, correct output"]]
+
+        ENC --> ROUTE
+        ROUTE --> H1 & H2 & H3 & H4 & H5
+        H1 & H2 & H3 & H4 & H5 --> DEC
     end
 
-    subgraph OUTPUT["🚀 Output"]
-        C1[AI-powered Products]
-        C2[Scalable Systems]
-        C3[Calm Teams]
+    subgraph OUT["🚀 Output"]
+        direction LR
+        O1[AI-powered products]
+        O2[Scalable systems]
+        O3[Calm teams]
+        O4[On-time releases]
     end
 
-    INPUT --> CORE --> OUTPUT
+    IN ==> MODEL ==> OUT
 
-    style CORE fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
-    style B5 fill:#1f2937,stroke:#fbbf24,stroke-width:2px,color:#fbbf24
-    style INPUT fill:#161b22,stroke:#30363d,color:#c9d1d9
-    style OUTPUT fill:#161b22,stroke:#3fb950,color:#c9d1d9
+    style MODEL fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#c9d1d9
+    style HEADS fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style H3 fill:#1f2937,stroke:#fbbf24,stroke-width:2px,color:#fbbf24
+    style ROUTE fill:#1f2937,stroke:#58a6ff,color:#c9d1d9
+    style ENC fill:#1f2937,stroke:#3fb950,color:#c9d1d9
+    style DEC fill:#1f2937,stroke:#3fb950,color:#c9d1d9
+    style IN fill:#161b22,stroke:#30363d,color:#c9d1d9
+    style OUT fill:#161b22,stroke:#3fb950,color:#c9d1d9
 ```
 
 ---
 
-### 🤖 Post-2022 Focus &nbsp;·&nbsp; <kbd>branch: ai-engineering</kbd>
+## 🤖 Fine-Tuning Run &nbsp;·&nbsp; <kbd>checkpoint: 2022 · AI-first</kbd>
 
-Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud skill badges** and **Credly-verified skills** backing it up.
+Since 2022 the roadmap has been AI-first. Verified Google Cloud skill badges and Credly-verified skills below.
 
 <table>
 <tr>
@@ -75,7 +144,7 @@ Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud 
   <img src="https://img.shields.io/badge/Google%20Cloud-Prompt%20Design%20in%20Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Prompt Design in Vertex AI" />
 </a>
 
-<sub>Skill Badge · Vertex AI prompt engineering,<br/>few-shot + chain-of-thought design, Gemini</sub>
+<sub>Skill Badge · Vertex AI prompt engineering,<br/>few-shot + chain-of-thought, Gemini</sub>
 
 </td>
 <td align="center" width="50%">
@@ -84,7 +153,7 @@ Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud 
   <img src="https://img.shields.io/badge/Google%20Cloud-Security%20Command%20Center-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Security Command Center" />
 </a>
 
-<sub>Skill Badge · Mitigating threats &<br/>vulnerabilities in Google Cloud</sub>
+<sub>Skill Badge · Mitigating threats<br/>& vulnerabilities in Google Cloud</sub>
 
 </td>
 </tr>
@@ -103,18 +172,49 @@ Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud 
 
 ---
 
-### 📂 Files changed &nbsp;·&nbsp; <kbd>+∞ −0</kbd>
+## 📡 API Reference &nbsp;·&nbsp; `how to invoke`
+
+```http
+POST https://network.suresh-borad.dev/v2/engage
+Authorization: Bearer <warm-intro>
+Content-Type:  application/json
+
+{
+  "intent":    "build-something-together",
+  "domain":    "ai | saas | mobile | realtime",
+  "timeline":  "yesterday | this-quarter | strategic",
+  "stack":     ["angular", "react-native", "node", "vertex-ai"]
+}
+```
+
+```http
+← 200 OK · 42ms
+
+{
+  "availability": "open for select collaborations",
+  "channels": {
+    "recruiters":  "linkedin.com/in/suresh-borad",
+    "clients":     "upwork.com/fl/~018d6d634e5a8b4c18",
+    "enterprise":  "jarvisbitz.com"
+  },
+  "response_sla": "within 1 business day"
+}
+```
+
+---
+
+## 📂 Capabilities &nbsp;·&nbsp; <kbd>+∞ −0</kbd>
 
 <table>
-<tr><td>
+<tr><td width="50%" valign="top">
 
 <details open>
 <summary><b>📁 <code>/stack/ai</code></b> &nbsp;·&nbsp; <em>🆕 since 2022</em></summary>
 
 ```
-├── vertex-ai/            ★★★★☆  prompt design
-├── generative-ai/        ★★★★☆  verified
-├── prompt-engineering/   ★★★★☆  verified
+├── vertex-ai/            ★★★★☆  prompt design ✓
+├── generative-ai/        ★★★★☆  verified ✓
+├── prompt-engineering/   ★★★★☆  verified ✓
 ├── nlp/                  ★★★☆☆  learning
 ├── edge-computing/       ★★★☆☆  learning
 └── llm-integrations/     ★★★★☆  shipping
@@ -126,9 +226,9 @@ Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud 
 
 ```
 ├── google-cloud/         ★★★★☆
-├── security-cmd-center/  ★★★★☆  verified
+├── security-cmd-center/  ★★★★☆  verified ✓
 ├── vertex-ai/            ★★★★☆
-└── threat-mitigation/    ★★★★☆  verified
+└── threat-mitigation/    ★★★★☆  verified ✓
 ```
 </details>
 
@@ -157,7 +257,7 @@ Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud 
 ```
 </details>
 
-</td><td>
+</td><td width="50%" valign="top">
 
 <details open>
 <summary><b>📁 <code>/stack/backend</code></b></summary>
@@ -211,32 +311,32 @@ Since 2022 the roadmap has been AI-first. Below are the **verified Google Cloud 
 
 ---
 
-### ✅ Checks &nbsp;·&nbsp; <code>18 / 18 passed</code>
+## 📊 Benchmarks &nbsp;·&nbsp; <code>18 / 18 passed · eval harness: real-world</code>
 
-| Check | Status | Source |
+| Benchmark | Score | Verified by |
 |---|---|---|
-| 🤖 `ai / prompt-design-vertex-ai` | ✅ **verified** | [Google Cloud · Credly](https://www.credly.com/badges/744497bf-8661-4d17-92ce-dff80dd7f5e6/public_url) |
-| 🔐 `security / gcp-security-cmd-center` | ✅ **verified** | [Google Cloud · Credly](https://www.credly.com/badges/3da7be53-c4cb-4a07-a065-691e65bca7c6/public_url) |
-| `build / javascript` | ✅ passed | [Udemy · 2024](https://www.udemy.com/certificate/UC-603994c6-b58e-448d-b8bb-374737d85e0d/) |
-| `build / typescript` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-f518d4d6-7309-4380-a2af-41e53b55dca0/) |
-| `build / angular-2024` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-0a90eafe-7c5d-4acf-88bf-3354eec9cbf1/) |
-| `build / react-nextjs-redux` | ✅ passed | [Udemy · 2024](https://www.udemy.com/certificate/UC-445cf5b8-2199-4893-b96b-dbe08d5010b6/) |
-| `build / react-ssr-redux` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-7235684e-3103-4916-9c8a-fcd0d21f767d/) |
-| `build / react-native-hooks` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-a3601671-825f-4061-b54c-8b10f5a0d197/) |
-| `build / react-native-ci-cd` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-c903152a-9773-48d3-aaef-fe82deca66cf/) |
-| `build / node-rest-graphql-deno` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-99e809d6-76aa-4e28-b940-16f27b5c4458) |
-| `build / mongodb-2024` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-4316411d-b45c-4d3a-8be6-f28ddbf42184/) |
-| `build / mysql-bootcamp` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-de8cb957-dce3-4249-b6bb-e998f742e915/) |
-| `security / mysql-pen-testing` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-459e46b8-3af4-4c2b-a8b0-8fadc2dc93b1/) |
-| `build / a-frame-webvr` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-e89412aa-149c-4711-9879-06adcfee594f/) |
-| `build / threejs-webxr` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-cd17ee9e-5bd1-483c-907d-45933cda4d79/) |
-| `cicd / devops-pipeline` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-0efe6f15-371c-41b3-b485-ed747401e395/) |
-| `test / cypress-mocha-cucumber` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-857b7be8-2fca-4699-86fc-55cf89b43788/) |
-| `test / jest-enzyme-react` | ✅ passed | [Udemy](https://www.udemy.com/certificate/UC-e1173015-094a-4302-aef7-c00a049162f0/) |
+| 🤖 `vertex-ai / prompt-design` | **✅ pass** | [Google Cloud · Credly](https://www.credly.com/badges/744497bf-8661-4d17-92ce-dff80dd7f5e6/public_url) |
+| 🔐 `gcp / security-cmd-center` | **✅ pass** | [Google Cloud · Credly](https://www.credly.com/badges/3da7be53-c4cb-4a07-a065-691e65bca7c6/public_url) |
+| `lang / javascript-2024` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-603994c6-b58e-448d-b8bb-374737d85e0d/) |
+| `lang / typescript` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-f518d4d6-7309-4380-a2af-41e53b55dca0/) |
+| `framework / angular-2024` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-0a90eafe-7c5d-4acf-88bf-3354eec9cbf1/) |
+| `framework / react-nextjs-redux` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-445cf5b8-2199-4893-b96b-dbe08d5010b6/) |
+| `framework / react-ssr-redux` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-7235684e-3103-4916-9c8a-fcd0d21f767d/) |
+| `mobile / react-native-hooks` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-a3601671-825f-4061-b54c-8b10f5a0d197/) |
+| `mobile / react-native-ci-cd` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-c903152a-9773-48d3-aaef-fe82deca66cf/) |
+| `backend / node-rest-graphql-deno` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-99e809d6-76aa-4e28-b940-16f27b5c4458) |
+| `data / mongodb-2024` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-4316411d-b45c-4d3a-8be6-f28ddbf42184/) |
+| `data / mysql-bootcamp` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-de8cb957-dce3-4249-b6bb-e998f742e915/) |
+| `security / mysql-pen-test` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-459e46b8-3af4-4c2b-a8b0-8fadc2dc93b1/) |
+| `xr / a-frame-webvr` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-e89412aa-149c-4711-9879-06adcfee594f/) |
+| `xr / threejs-webxr` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-cd17ee9e-5bd1-483c-907d-45933cda4d79/) |
+| `cicd / devops-pipeline` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-0efe6f15-371c-41b3-b485-ed747401e395/) |
+| `test / cypress-mocha-cucumber` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-857b7be8-2fca-4699-86fc-55cf89b43788/) |
+| `test / jest-enzyme-react` | ✅ pass | [Udemy](https://www.udemy.com/certificate/UC-e1173015-094a-4302-aef7-c00a049162f0/) |
 
 ---
 
-### 📜 Commit history &nbsp;·&nbsp; <code>git log --oneline --graph</code>
+## 📜 Training History &nbsp;·&nbsp; <code>git log --oneline --graph</code>
 
 ```mermaid
 gitGraph
@@ -258,17 +358,40 @@ gitGraph
     branch ai-engineering
     checkout ai-engineering
     commit id: "2022 — AI pivot"
-    commit id: "Vertex AI: prompt design" tag: "verified"
+    commit id: "Vertex AI · prompt design" tag: "verified"
     commit id: "GCP Security Cmd Center" tag: "verified"
     commit id: "Generative AI + NLP"
     checkout main
-    merge ai-engineering tag: "v2.0 AI-first"
+    merge ai-engineering tag: "v2.0-ai-first"
     commit id: "HEAD → shipping AI features" type: HIGHLIGHT
 ```
 
 ---
 
-### 📊 Coverage report
+## 💻 Inference Example
+
+```python
+>>> from network import suresh_borad
+>>> ceo = suresh_borad.load(version="2.0-ai-first", region="asia-south1")
+
+>>> ceo.capabilities
+['strategy', 'systems-design', 'ai-engineering', 'execution', 'qa']
+
+>>> ceo.engage(
+...     problem="scale product + integrate AI without breaking the team",
+...     constraints={"timeline": "this quarter", "team_size": "small"}
+... )
+<Response 200 OK · 42ms>
+{
+  "recommendation": "Let's architect this end-to-end.",
+  "first_steps":    ["align on north-star metric", "instrument, then decide"],
+  "next_meeting":   "available this week"
+}
+```
+
+---
+
+## 📈 Runtime Metrics
 
 <div align="center">
 
@@ -286,7 +409,16 @@ gitGraph
 
 ---
 
-### 👀 Reviewers requested
+## ⚠️ Limitations &nbsp;·&nbsp; <code>honest eval</code>
+
+- **Not a clairvoyant.** Needs context to give good answers — ambiguous inputs return clarifying questions, not guesses.
+- **Opinionated on architecture.** 13 years of scars; will push back on designs likely to hurt in year two.
+- **Single-instance deployment.** Cannot be forked. Can be paired with a capable team.
+- **Prefers calm ops.** High-drama environments reduce throughput for everyone, not just this model.
+
+---
+
+## 📫 Deploy
 
 <table>
 <tr>
@@ -299,7 +431,7 @@ gitGraph
   <a href="https://www.upwork.com/fl/~018d6d634e5a8b4c18">Upwork</a>
 </td>
 <td align="center" width="33%">
-  <b>🏢 Business inquiries</b><br/>
+  <b>🏢 Enterprise</b><br/>
   <a href="https://www.jarvisbitz.com">jarvisbitz.com</a>
 </td>
 </tr>
@@ -307,28 +439,14 @@ gitGraph
 
 ---
 
-### 💬 Review comments
-
-> **Q: What are you currently shipping?**
-> Scaling JarvisBitz Tech's flagship product and wiring AI-driven features into the core — prompt-designed flows on Vertex AI, smarter user journeys, fewer support tickets.
-
-> **Q: What are you learning?**
-> Advanced ML — NLP, Edge Computing, and LLM-native application patterns.
-
-> **Q: Ask me about…**
-> AI product architecture, prompt engineering in production, software architecture, project management, and QA strategy that actually scales.
-
-> **Q: Fun fact?**
-> Wrote my first program at 18 — a desktop app to schedule my own tasks. Automation addiction started early.
-
----
-
 <div align="center">
 
-### 🟢 &nbsp;<kbd>&nbsp;&nbsp;Merge pull request&nbsp;&nbsp;</kbd> &nbsp; or &nbsp; <kbd>&nbsp;&nbsp;Request changes&nbsp;&nbsp;</kbd>
+### 🟢 &nbsp;<kbd>&nbsp;&nbsp;Merge pull request&nbsp;&nbsp;</kbd> &nbsp; · &nbsp; <kbd>&nbsp;&nbsp;Deploy model&nbsp;&nbsp;</kbd> &nbsp; · &nbsp; <kbd>&nbsp;&nbsp;Request changes&nbsp;&nbsp;</kbd>
 
-*This PR auto-rebases on new experience. Last force-push: today.*
+*This model auto-rebases on new experience. Last checkpoint: today.*
 
-<sub>✨ Crafted with care · powered by Markdown, Mermaid, and 13 years of muscle memory</sub>
+<sub>✨ Crafted with care · Markdown, Mermaid, 13 years of compute</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,50:1f2937,100:0d1117&height=80&section=footer" width="100%" />
 
 </div>
