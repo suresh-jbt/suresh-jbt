@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:4285F4&height=180&section=header&text=suresh-borad&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=v2.0%20%E2%80%A2%20AI-first%20%E2%80%A2%20CEO%20%26%20CTO%20%40%20JarvisBitz%20Tech&descSize=16&descAlignY=62&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:4285F4&height=180&section=header&text=suresh-borad&fontSize=52&fontColor=E6EDF3&fontAlignY=38&animation=fadeIn&desc=v2.0%20%E2%80%A2%20AI-first%20%E2%80%A2%20CEO%20%E2%80%A2%20CTO%20%40%20JarvisBitz%20Tech&descSize=16&descAlignY=62&descAlign=50" width="100%" />
 
 <a href="https://github.com/suresh-jbt">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=780&lines=%24+load_model+suresh-borad;%E2%9C%93+model+loaded+%E2%80%A2+context+%3D+13y+%E2%80%A2+version+%3D+2.0-ai-first;%E2%86%92+specializes+in+scaling+product+%2B+shipping+AI;%E2%86%92+warm+weights%2C+calm+teams%2C+low+latency" alt="typing banner" />
